@@ -4,7 +4,7 @@
 
 # Installation
 •Clone this repo to your computer.  
-•Download the dataset "full_data.csv" [here](https://github.com/fivethirtyeight/guns-data)  
+•OPTIONAL: the original dataset "full_data.csv" can be found [here](https://github.com/fivethirtyeight/guns-data)  
 •Install the requirements using pip install -r requirements.txt.  
 •Make sure you use Python 3.  
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
