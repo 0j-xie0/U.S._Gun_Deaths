@@ -16,7 +16,7 @@
 ### •Removed Headers from List of Lists.
 ••Extracted first row data and created header row.
 ### •Calculated Gun Deaths by Year.
-••Created dictionary that keeps count of eacg element in the year column.
+••Created dictionary that keeps count of each element in the year column.
 ### •Explored Gun Deaths by Month & Year.
 ••Used a list comprehension to create a datetime.datetime object for each row.  
 ••Queried unique dates to count how many Gun Deaths per month and per year.
