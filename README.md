@@ -10,7 +10,7 @@
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
 
 # Usage
-•Run the Jupyter Notebook "Explore_US_Births.ipynb" either in Jupyter or the IDE of your choice.
+•Run the Jupyter Notebook "US.Gun.Deaths.ipynb" either in Jupyter or the IDE of your choice.
 
 # Tasks Performed
 ### •Removed Headers from List of Lists.
