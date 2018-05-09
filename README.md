@@ -31,12 +31,25 @@
 
 # Observations
 ### According to this dataset:
-#### •Male deaths are approx 6 times more than female deaths.
+#### •Male deaths are approximately 6 times more than female deaths.
 #### •Seasonally more gun deaths during the warmer months.
 ### Ranking of Gun Deaths by Race:
-#### 1.White, 2.Black, 3.Hispanic, 4.Asian/Pac Islander, 5.Native American/Native Alaskan.
+#### 1.White
+#### 2.Black
+#### 3.Hispanic
+#### 4.Asian/Pac Islander
+#### 5.Native American/Native Alaskan
 ### Ranking of Homicides by Race per 100k:
-#### 1.Black, 2.Hispanic, 3.Native American/Native Alaskan, 4.White, 5.Asian/Pac Islander
+#### 1.Black
+#### 2.Hispanic
+#### 3.Native American/Native Alaskan
+#### 4.White
+#### 5.Asian/Pac Islander
 ### Possible Next Steps:
-#### •Explore correlations in homicide rates between: 1.Location, 2.Income, 3.Education, 4.Temperature(weather), 5.Gender.
+#### •Explore correlations in homicide rates between:
+#### 1.Location
+#### 2.Income
+#### 3.Education
+#### 4.Temperature(weather)
+#### 5.Gender
 
