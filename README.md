@@ -47,9 +47,9 @@
 #### 5.Asian/Pac Islander
 ### Possible Next Steps:
 #### •Explore correlations in homicide rates between:
-#### 1.Location
-#### 2.Income
-#### 3.Education
-#### 4.Temperature(weather)
-#### 5.Gender
+••Location  
+••Income  
+••Education  
+••Temperature(weather)  
+••Gender
 
